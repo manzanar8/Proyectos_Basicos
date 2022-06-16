@@ -20,6 +20,12 @@ Descarga y ejecuta el archivo index.html
 
 Se agregan imagenes de ejemplo
 
+### Ejemplos
+
+![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Android.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Explorer.JPG?raw=true)
+![alt tag](https://github.com/manzanar8/Proyectos_Basicos/blob/main/Proyectos/detectBrowser/Opera.JPG?raw=true)
+
 ## Autores ✒️
 
 * **Ana Manzano** - *Trabajo Inicial* - [manzanar8](https://github.com/manzanar8)
