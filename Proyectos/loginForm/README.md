@@ -1,15 +1,14 @@
 # Título del Proyecto
 
-Reloj con JS, Html y CSS
+Login Simple (HTML,CSS y JS)
 
 ## Descripción 🚀
 
-Proyecto simple que muestra un Reloj en pantalla.
+Construido con Html, CSS y JS, los iconos se agregan de Font Awsome y se elige una fuente de Google fonts.
 
 ### Pre-requisitos 📋
 
 Tener un navegador Web
-
 
 ### Instalación 🔧
 
